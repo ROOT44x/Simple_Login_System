@@ -1,0 +1,21 @@
+C:\Users\MTS\Desktop\login-master\login\bin\Debug\login.exe.config
+C:\Users\MTS\Desktop\login-master\login\bin\Debug\login.exe
+C:\Users\MTS\Desktop\login-master\login\bin\Debug\login.pdb
+C:\Users\MTS\Desktop\login-master\login\obj\Debug\login.Form1.resources
+C:\Users\MTS\Desktop\login-master\login\obj\Debug\login.Form2.resources
+C:\Users\MTS\Desktop\login-master\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\MTS\Desktop\login-master\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\login-master\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\login-master\login\obj\Debug\login.exe
+C:\Users\MTS\Desktop\login-master\login\obj\Debug\login.pdb
+C:\Users\MTS\Desktop\s\login-master\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\MTS\Desktop\s\login-master\login\obj\Debug\login.Form1.resources
+C:\Users\MTS\Desktop\s\login-master\login\obj\Debug\login.Form2.resources
+C:\Users\MTS\Desktop\s\login-master\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\MTS\Desktop\s\login-master\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\s\login-master\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\s\login-master\login\bin\Debug\Simple Login System.exe.config
+C:\Users\MTS\Desktop\s\login-master\login\bin\Debug\Simple Login System.exe
+C:\Users\MTS\Desktop\s\login-master\login\bin\Debug\Simple Login System.pdb
+C:\Users\MTS\Desktop\s\login-master\login\obj\Debug\Simple Login System.exe
+C:\Users\MTS\Desktop\s\login-master\login\obj\Debug\Simple Login System.pdb
